@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lionns
+- 👋 Hi, I’m Juan - @lionns
 - 👀 I’m interested in help world solving needs with technology
-- 🌱 I’m currently learning Web dev (React, GraphQL, NextJS)
+- 🌱 I’m currently learning React and Swift
 
 <!---
 lionns/lionns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
